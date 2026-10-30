@@ -1,0 +1,20 @@
+# Environnement Python
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modèles et fichiers volumineux
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Fichiers système
+.DS_Store
+Thumbs.db
