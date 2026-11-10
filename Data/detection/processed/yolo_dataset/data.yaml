@@ -1,0 +1,10 @@
+path: C:/Users/ajbba/Desktop/YOUCODE-IA/Diagnostic_tumeurs/Data/detection/processed/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names:
+  0: Glioma
+  1: Meningioma
+  2: Pituitary
